@@ -62,7 +62,7 @@ Outcome: Guidance on heading design in CSS
 
 Tool used: Microsoft Copilot
 Date: 29th of April 2026
-Purpose: meta description - help
+Purpose: Meta description 
 Prompt: "What is a good meta description for my 'for kids page'?"
 Outcome: Help in formulating a description
 
