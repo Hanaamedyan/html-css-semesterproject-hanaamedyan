@@ -22,9 +22,13 @@ The website I have built is designed to inspire curiosity amongst adults and chi
 - Acessible navigation and semantic markup
 - Interactive pages
 
-## Canva - Low-Fidelity Wireframes
+## GitHub Project
 
-- https://canva.link/e4qnysbku42i2ye
+- https://github.com/users/Hanaamedyan/projects/2
+
+## Figma - Style Guide & Prototypes
+
+- https://www.figma.com/proto/gFCLIljaFe6Y6Ih3saC84u/SP1-Style-Guide---Prototype?node-id=526-386&t=PZYr9D7ZU1EMG2Dv-1
 
 ## Live website on Github Pages
 
@@ -33,7 +37,7 @@ The website I have built is designed to inspire curiosity amongst adults and chi
 ## Resources
 
 - W3C Markup Validation Service
-- Wave Wev Accessibility Evaluation Tool
+- Wave Web Accessibility Evaluation Tool
 - Squoosh
 
 #### Author

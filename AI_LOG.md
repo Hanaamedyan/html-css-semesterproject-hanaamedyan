@@ -31,7 +31,7 @@ Outcome: Improved understanding
 Tool used: Microsoft Copilot
 Date: 23rd of April 2026
 Purpose: Explanation of z-index
-Prompt: "What does  z-index mean in CSS?"
+Prompt: "What does z-index mean in CSS?"
 Outcome: Improved understanding
 
 Tool used: Microsoft Copilot
@@ -44,10 +44,10 @@ Tool used: Microsoft Copilot
 Date: 27th of April 2026
 Purpose: What breakpoints to use for my website
 Prompt: "Are these good breakpoints to use for this website:
-@media (min-width: 375px) {    
+@media (min-width: 375px) {  
 }
 
-@media (min-width: 768px) { 
+@media (min-width: 768px) {
 }
 
 @media (min-width: 1024px) {
@@ -62,8 +62,12 @@ Outcome: Guidance on heading design in CSS
 
 Tool used: Microsoft Copilot
 Date: 29th of April 2026
-Purpose: Meta description 
+Purpose: Meta description
 Prompt: "What is a good meta description for my 'for kids page'?"
 Outcome: Help in formulating a description
 
-
+Tool used: Microsoft Copilot
+Date: 30th of April 2026
+Purpose: Term explanation (clamp)
+Prompt: "What does clamp mean in coding?"
+Outcome: Improved understanding
