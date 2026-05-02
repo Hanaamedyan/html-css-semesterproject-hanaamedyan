@@ -1553,6 +1553,7 @@ footer p {
 
     .coming-soon-content p {
         font-size: 0.95rem;
+        text-align: center;
     }
 
     .coming-soon-buttons {
