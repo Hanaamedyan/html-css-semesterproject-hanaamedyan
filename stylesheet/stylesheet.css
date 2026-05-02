@@ -543,6 +543,7 @@ section > .container > h2 {
     filter: blur(40px);
     top: -150px;
     left: -100px;
+    z-index: 0;
 }
 
 .cta-banner::after {
@@ -555,6 +556,7 @@ section > .container > h2 {
     filter: blur(40px);
     bottom: -80px;
     right: -50px;
+    z-index: 0;
 }
 
 .cta-banner .container {
@@ -563,6 +565,8 @@ section > .container > h2 {
     align-items: center;
     gap: var(--space-md);
     padding-block: var(--space-lg);
+    position: relative;
+    z-index: 1;
 }
 
 .cta-banner p {
@@ -972,7 +976,7 @@ footer p {
     isolation: isolate;
 }
 
-.hero video {
+.hero-video {
     position: absolute;
     inset: 0;
     width: 100%;
@@ -1462,6 +1466,23 @@ footer p {
 
     .container.header {
         padding-block: 0.75rem;
+    }
+
+    .container-footer {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: var(--space-sm);
+        padding-block: var(--space-md);
+    }
+
+    .footer-nav {
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+
+    .footer-nav a {
+        font-size: 1rem;
+        padding: 0.25rem 0;
     }
 
 }
