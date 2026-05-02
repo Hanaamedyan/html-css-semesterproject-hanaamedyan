@@ -1560,7 +1560,6 @@ footer p {
 }
 
 
-
 @media (max-width: 375px) {
 
  :root {
@@ -1679,6 +1678,16 @@ footer p {
 
     .container.header {
         padding-block: 0.75rem;
+    }
+
+     .coming-soon-buttons {
+        flex-direction: column;
+        align-items: stretch;
+        width: 100%;
+    }
+
+    .coming-soon-buttons .btn {
+        text-align: center;
     }
 
 }
