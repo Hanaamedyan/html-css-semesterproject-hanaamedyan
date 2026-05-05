@@ -1569,6 +1569,24 @@ footer p {
         padding: 0.65rem 2rem;
     }
 
+    .visit-hero::before,
+    .visit-hero::after {
+        z-index: 0;
+    }
+
+    .visit-hero .container {
+        z-index: 1;
+    }
+
+    .kids-hero::before,
+    .kids-hero::after {
+        z-index: 0;
+    }
+
+    .kids-hero .container {
+        z-index: 1;
+    }
+
 }
 
 

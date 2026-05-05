@@ -22,7 +22,7 @@ The website I have built is designed to inspire curiosity amongst adults and chi
 - Acessible navigation and semantic markup
 - Interactive pages
 
-## GitHub Project
+## GitHub Project Board
 
 - https://github.com/users/Hanaamedyan/projects/2
 
@@ -32,7 +32,20 @@ The website I have built is designed to inspire curiosity amongst adults and chi
 
 ## Live website on Github Pages
 
-- https://hanaamedyan.github.io/html-css-semesterproject-hanaamedyan/
+- Style Guide:
+  (Prototype link): https://www.figma.com/proto/gFCLIljaFe6Y6Ih3saC84u/SP1-Style-Guide---Prototype?node-id=25-32&t=PZYr9D7ZU1EMG2Dv-1
+
+(Dev Mode link): https://www.figma.com/design/gFCLIljaFe6Y6Ih3saC84u/SP1-Style-Guide---Prototype?node-id=526-386&m=dev&t=PZYr9D7ZU1EMG2Dv-1
+
+- High-fidelity wireframes (Desktop):
+  (Prototype link):
+
+(Dev Mode link):
+
+- High-fidelity wireframes (Mobile):
+  (Prototype link):
+
+(Dev Mode link):
 
 ## Resources
 
