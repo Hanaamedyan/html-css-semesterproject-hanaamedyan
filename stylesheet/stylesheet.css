@@ -1553,7 +1553,7 @@ footer p {
 
     .coming-soon-content p {
         font-size: 0.95rem;
-        max-width: 32ch;
+        max-width: 35ch;
         padding-inline: var(--space-sm);
         margin-inline: auto;
     }
@@ -1694,7 +1694,7 @@ footer p {
 
     .coming-soon-content p {
         font-size: 0.9rem;
-        max-width: 32ch;
+        max-width: 35ch;
         padding-inline: var(--space-sm);
         margin-inline: auto;
     }
