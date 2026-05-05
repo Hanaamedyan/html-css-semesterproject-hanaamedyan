@@ -1553,8 +1553,9 @@ footer p {
 
     .coming-soon-content p {
         font-size: 0.95rem;
-        max-width: 32ch;
+        max-width: 28ch;
         padding-inline: var(--space-sm);
+        margin-inline: auto;
     }
 
     .coming-soon-buttons {
@@ -1689,6 +1690,13 @@ footer p {
 
     .container.header {
         padding-block: 0.75rem;
+    }
+
+    .coming-soon-content p {
+        font-size: 0.9rem;
+        max-width: 24ch;
+        padding-inline: var(--space-sm);
+        margin-inline: auto;
     }
 
 }
