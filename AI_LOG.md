@@ -72,26 +72,26 @@
   Prompt: "What does clamp mean in coding?"
   Outcome: Improved understanding
 
-Tool used: Microsoft Copilot
-Date: 1st of May 2026
-Purpose: Video input in HTML
-Prompt: «I want to have a video running behind my hero section for my «get involved page», how do I code this?»
-Outcome: Help on how to code videos in HTML
+- Tool used: Microsoft Copilot
+  Date: 1st of May 2026
+  Purpose: Video input in HTML
+  Prompt: «I want to have a video running behind my hero section for my «get involved page», how do I code this?»
+  Outcome: Help on how to code videos in HTML
 
-Tool used: Microsoft Copilot
-Date: 1st of May 2026
-Purpose: File structure in VS Code
-Prompt: «How do I change my file structure in VSCode?»
-Outcome: How to change my file structure in VS Code
+- Tool used: Microsoft Copilot
+  Date: 1st of May 2026
+  Purpose: File structure in VS Code
+  Prompt: «How do I change my file structure in VSCode?»
+  Outcome: How to change my file structure in VS Code
 
-Tool used: Microsoft Copilot
-Date: 3rd of May 2026
-Purpose: Designing glass buttons
-Prompt: «I want my buttons to have a glass effect on my website, how can I achieve this in CSS?»
-Outcome: Help on how to design glass-effect on buttons in CSS
+- Tool used: Microsoft Copilot
+  Date: 3rd of May 2026
+  Purpose: Designing glass buttons
+  Prompt: «I want my buttons to have a glass effect on my website, how can I achieve this in CSS?»
+  Outcome: Help on how to design glass-effect on buttons in CSS
 
-Tool used: Claude AI
-Date: 5th of May 2026
-Purpose: Animation creation
-Prompt: «Can you create a cartoon animation where a car starts from it´s house and then drives to a museum? Use fun colors»
-Outcome: Animation I can use on my visit page
+- Tool used: Claude AI
+  Date: 5th of May 2026
+  Purpose: Animation creation
+  Prompt: «Can you create a cartoon animation where a car starts from it´s house and then drives to a museum? Use fun colors»
+  Outcome: Animation I can use on my visit page
