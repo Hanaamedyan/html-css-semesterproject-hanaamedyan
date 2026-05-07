@@ -95,3 +95,9 @@
   Purpose: Animation creation
   Prompt: «Can you create a cartoon animation where a car starts from it´s house and then drives to a museum? Use fun colors»
   Outcome: Animation I can use on my visit page
+
+- Tool used: Microsoft Copilot
+  Date: 8th of May 2026
+  Purpose: Contact form creation
+  Prompt: «How can I get a success message to pop up after the user has filled out the contact form without using any JavaScript?»
+  Outcome: How to use the :target trick that allows the success message to appear after submission
