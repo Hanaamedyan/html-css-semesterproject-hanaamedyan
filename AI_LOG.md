@@ -96,6 +96,12 @@
   Prompt: «Can you create a cartoon animation where a car starts from it´s house and then drives to a museum? Use fun colors»
   Outcome: Animation I can use on my visit page
 
+- Tool used: Claude AI
+  Date: 5th of May 2026
+  Purpose: Debugging
+  Prompt: «Can you help me fix the blob clipping?»
+  Outcome: Bug resolved
+
 - Tool used: Microsoft Copilot
   Date: 8th of May 2026
   Purpose: Contact form creation
